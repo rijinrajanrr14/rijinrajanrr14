@@ -1,4 +1,4 @@
-[![MasterHead](https://scitechdaily.com/images/Type-Ia-Supernova-1.gif)]
+[![MasterHead](https://giffiles.alphacoders.com/360/36033.gif)]
 <h1 align="center">Hi 👋, I'm Rijin Rajan</h1>
 <h3 align="center">A Data Science enthusiast. A non-stop Learner. Driven by 3C's: Curiosity, Creativity, Customization</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1061750/screenshots/4314775/research.gif">
