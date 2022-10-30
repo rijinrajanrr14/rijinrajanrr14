@@ -1,7 +1,7 @@
 [![MasterHead](https://github.com/rijinrajanrr14/rijinrajanrr14/blob/main/RAJAN.png)]
 <h1 align="center">Hi 👋, I'm Rijin Rajan</h1>
 <h3 align="center">A Data Science enthusiast. A non-stop Learner. Driven by 3C's: Curiosity, Creativity, Customization</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1061750/screenshots/4314775/research.gif">
+<img align="right" alt="Coding" width="400" src="https://github.com/rijinrajanrr14/rijinrajanrr14/blob/main/20221030_1828021.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rijinrajanrr14&label=Profile%20views&color=0e75b6&style=flat" alt="rijinrajanrr14" /> </p>
 
 - 🌱 I’m currently learning **Machine Learning, Deep Learning and NLP**
