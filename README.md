@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/rijinrajanrr14/rijinrajanrr14/blob/main/New%20Git%20Banner.gif)]
+![MasterHead](https://github.com/rijinrajanrr14/rijinrajanrr14/blob/main/RR14%20(1).gif)
 <h1 align="center">Hi 👋</h1>
 <h3 align="center"> Data Science enthusiast, non-stop Learner. Driven by 3C's: Curiosity, Creativity, Consistency</h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/rijinrajanrr14/rijinrajanrr14/blob/main/RR14.gif">
